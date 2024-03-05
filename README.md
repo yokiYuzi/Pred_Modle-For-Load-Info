@@ -5,4 +5,5 @@
 
 ![HUFL 18 3-18 4](https://github.com/yokiYuzi/Pred_Modle-For-Load-Info/assets/76743561/9fa62a93-4a5c-4a3b-b58a-2ab6a91687a6)
 
-一个学习成果的样例如上
+一个多模型单负载滑动窗口学习成果的样例如上
+也有单模型单负载和多模型多负载的学习成果
