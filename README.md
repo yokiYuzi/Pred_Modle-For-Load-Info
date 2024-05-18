@@ -7,3 +7,6 @@
 
 一个多模型单负载滑动窗口学习成果的样例如上
 也有单模型单负载和多模型多负载的学习成果
+
+
+[LSTM-Sliding windows.pdf](https://github.com/yokiYuzi/Pred_Modle-For-Load-Info/files/15367069/LSTM-Sliding.windows.pdf)
